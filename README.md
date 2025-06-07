@@ -6,8 +6,8 @@ A responsive and real-time news portal built with **Vite + React + TypeScript**,
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://your-deployment-link.com)  
-*(Replace with your actual Lovable share link)*
+👉 lanka-news.vercel.app
+
 
 ---
 
